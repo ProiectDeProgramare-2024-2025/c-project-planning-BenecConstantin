@@ -1,0 +1,10 @@
+benec 13
+benec 10
+benec 3.0
+Gobi 2.0
+Gobi 5.0
+benec 3.5
+filip 5.0
+a 0.0
+te 3.0
+baba 2.0
